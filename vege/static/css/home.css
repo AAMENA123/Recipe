@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.box{
+    height:50%;
+    width: 85%;
+    margin-left: 80px;
+    margin-top: 90px;
+    justify-content: center;
+}
+.box .table  {
+    border: 2px solid black;
+}
+button{
+    height: 50px;
+    width: 100px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
